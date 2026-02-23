@@ -55,3 +55,11 @@ Model: XGBoost Regressor
 NLP: FinBERT (HuggingFace)
 
 Data: Yahoo Finance, MoneyControl, FRED API
+
+<img width="963" height="263" alt="Screenshot 2026-02-23 at 6 51 09 PM" src="https://github.com/user-attachments/assets/7711d495-750b-4d46-a6f9-8022b85c3413" />
+Equity Curve: Strategy vs. Benchmark
+The strategy achieved a 15.74% return, significantly outperforming the equal-weight benchmark during the test period.
+
+<img width="1262" height="214" alt="Screenshot 2026-02-23 at 11 23 17 PM" src="https://github.com/user-attachments/assets/1a97f5af-9ff6-499c-8d5c-0fe18f9f340a" />
+
+
